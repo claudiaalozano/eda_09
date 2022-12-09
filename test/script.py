@@ -1,2 +1,3 @@
-from test.saludo import saludo
-s = Saludo("Adiós")
+from test.saludo import *
+s = Saludo("Juan")
+s.saludo()
