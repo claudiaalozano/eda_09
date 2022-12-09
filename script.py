@@ -1,3 +1,4 @@
-from saludo import * 
-saludar()
+from saludo import Saludo
+saludo = Saludo("Hola")
+
 
