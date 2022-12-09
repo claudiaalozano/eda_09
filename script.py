@@ -1,4 +1,5 @@
-from saludo import Saludo
+from saludo import *
+
 saludo = Saludo("Hola")
 
-
+saludo.saludar()
