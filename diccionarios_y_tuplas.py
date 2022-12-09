@@ -1,6 +1,6 @@
 from collections import defaultdict
 from collections import OrderedDict
-from collections import 
+
 d = defaultdict(float)
 
 print(d["uno"])
